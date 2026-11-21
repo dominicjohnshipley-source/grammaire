@@ -1,0 +1,18 @@
+{
+  "id": "./",
+  "name": "Grammaire",
+  "short_name": "Grammaire",
+  "description": "French grammar from A1 to C2: 72 lessons with the theory behind each rule, activities, reviews and a verb lab.",
+  "lang": "en-GB",
+  "start_url": "./#course",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F5F5F8",
+  "theme_color": "#16163A",
+  "categories": ["education", "books"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
